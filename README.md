@@ -1,5 +1,5 @@
 # Pong
-Created a ping pong game using HTML Canvas and basic JavaScript.<br/>
+Created a simple Ping Pong game using HTML Canvas and basic JavaScript.<br/>
 Best viewed in full screen.<br/>
 Controls :<br/>
 <pre>
@@ -7,3 +7,4 @@ Controls :<br/>
   Player 1       W               S<br/>
   Player 2   Arrow Key Up   Arrow Key Down
 </pre>
+Enjoy!!
